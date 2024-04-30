@@ -1,4 +1,3 @@
-# Portofolio
+# Portfolio
 ## About Me
-Hi, thank you for coming to my GitHub portfolio. 
-My name is Ellena Sarah Josephine.
+Hi, welcome to my GitHub portfolio. My name is Ellena Sarah Josephine. 
