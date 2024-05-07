@@ -8,15 +8,15 @@ I'm an organized, diligent, and passionate learner specifically in learning auto
 I am excited to be given a chance to prove my skills to the company's project. Being an automation tester is my career goal due to many development opportunities.
 
 ## Tools & Programming Languages
-Jira - Bug tracker
-MySQL - database management system
-Selenium WebDriver - automation testing tool
-Postman - testing tool for REST API
-Jmeter - performance testing tool
-Java basic - basic programming language
-Python basic - basic programming language
-PHPMyAdmin - database management system
-Oracle - database management system
+* Jira - Bug tracker
+* MySQL - database management system
+* Selenium WebDriver - automation testing tool
+* Postman - testing tool for REST API
+* Jmeter - performance testing tool
+* Java basic - basic programming language
+* Python basic - basic programming language
+* PHPMyAdmin - database management system
+* Oracle - database management system
 
 ## Courses
 1. Software Testing Bootcamp - Udemy
@@ -24,17 +24,18 @@ Oracle - database management system
    Learned about functional testing, performance testing, and basic Jmeter.
    Certificate: https://bit.ly/SoftwareTestingBootcampCertificate
 
-3. Learn JMeter - Performance and API Testing - Udemy
+2. Learn JMeter - Performance and API Testing - Udemy
    Completed JMeter course in Udemy
    Certificate: https://bit.ly/LearningJmeterCertificate
 
-4. Selenium Foundation - Talent Development of Tata Consultancy Services
+3. Selenium Foundation - Talent Development of Tata Consultancy Services
    Completing training program for Selenium foundation
    Certificate: https://bit.ly/SeleniumFoundationCertificate
    
-5. Selenium Intermediate
+4. Selenium Intermediate
    Completing training program for Selenium Intermediate
    Certificate: https://bit.ly/SeleniumIntermediateCertificate 
 
-## My Project
+## Example of My Work
+
 
