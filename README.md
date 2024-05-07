@@ -28,9 +28,13 @@ Oracle - database management system
    Completed JMeter course in Udemy
    Certificate: https://bit.ly/LearningJmeterCertificate
 
-5. Selenium Foundation
+4. Selenium Foundation - Talent Development of Tata Consultancy Services
+   Completing training program for Selenium foundation
+   Certificate: https://bit.ly/SeleniumFoundationCertificate
    
-6. Selenium Intermediate
-    
+5. Selenium Intermediate
+   Completing training program for Selenium Intermediate
+   Certificate: https://bit.ly/SeleniumIntermediateCertificate 
 
-## Certificates
+## My Project
+
