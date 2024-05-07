@@ -24,23 +24,19 @@ I am excited to be given a chance to prove my skills to the company's project. B
 ## Courses
 1. Software Testing Bootcamp - Udemy
 
-   Completed a software boot camp at Nezam Academy. Learned about functional testing, performance testing, and basic Jmeter.
-   Certificate: https://bit.ly/SoftwareTestingBootcampCertificate
+   Completed a software boot camp at Nezam Academy. Learned about functional testing, performance testing, and basic Jmeter, Certificate: https://bit.ly/SoftwareTestingBootcampCertificate
 
 3. Learn JMeter - Performance and API Testing - Udemy
 
-   Completed JMeter course in Udemy
-   Certificate: https://bit.ly/LearningJmeterCertificate
+   Completed JMeter course in Udemy, Certificate: https://bit.ly/LearningJmeterCertificate
 
 5. Selenium Foundation - Talent Development of Tata Consultancy Services
 
-   Completing training program for Selenium foundation
-   Certificate: https://bit.ly/SeleniumFoundationCertificate
+   Completing training program for Selenium foundation, Certificate: https://bit.ly/SeleniumFoundationCertificate
    
 7. Selenium Intermediate
 
-   Completing training program for Selenium Intermediate
-   Certificate: https://bit.ly/SeleniumIntermediateCertificate 
+   Completing the training program for Selenium Intermediate, Certificate: https://bit.ly/SeleniumIntermediateCertificate 
 
 
 ## Example of My Work
