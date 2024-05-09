@@ -42,7 +42,7 @@ I am excited to be given a chance to prove my skills to the company's project. B
 ## Example of My Work
 * SauceDemo project
 
-  [Sauce Demo](https://www.saucedemo.com/) is a basic online shopping demo website. On this website, I created some test cases, did manual testing, made a script for automation testing in Selenium Webdriver, and collected evidence of the testing process.
+  [Sauce Demo](https://www.saucedemo.com/) is a fake  online shopping website. On this website, I created some test cases, did manual testing, made a script for automation testing in Selenium Webdriver, and collected evidence of the testing process.
   - [Click here to see the user stories](https://docs.google.com/document/d/1hOUgJ1agZ3QJMX_RV9L6iF6BqWaU4DrVeND8soS3cOI/edit?usp=sharing)
   - [Click here to see the test cases](https://docs.google.com/spreadsheets/d/1ZO0JDM4xcB8eP4dw9tbv7VLstJSIGXXxL5d9wQ0tWy8/edit?usp=sharing)
   - [Click here to see an example of collecting the evidence](https://docs.google.com/spreadsheets/d/1_Z-Hbe8Qf-9xiPszxRmKxULXOplnX3qVzXi2TUUXIE8/edit?usp=sharing)
